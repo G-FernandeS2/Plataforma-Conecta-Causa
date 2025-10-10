@@ -49,7 +49,7 @@ Você não precisa de um servidor ou de ferramentas complexas para rodar este pr
 
 Clone ou baixe este repositório:
 
-git clone [https://github.com/seu-usuario/plataforma-conecta-causa.git](https://github.com/seu-usuario/plataforma-conecta-causa.git)
+git clone [https://github.com/G-FernandeS2/Plataforma-Conecta-Causa.git](https://github.com/G-FernandeS2/Plataforma-Conecta-Causa.git)
 
 Ou simplesmente baixe o arquivo index.html diretamente.
 
