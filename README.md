@@ -61,22 +61,3 @@ Dê um duplo-clique no arquivo index.html.
 
 O site será aberto no seu navegador padrão.
 
-Configurando a API do Gemini
-Para que as funcionalidades de IA funcionem, você precisa de uma chave de API do Google Gemini.
-
-Obtenha sua chave de API gratuitamente no Google AI Studio.
-
-Abra o arquivo index.html em um editor de código (como o VS Code).
-
-Encontre a seguinte linha no bloco <script> no final do arquivo:
-
-const apiKey = ""; // Canvas will provide the API key here.
-
-Insira sua chave de API entre as aspas:
-
-const apiKey = "SUA_CHAVE_DE_API_VEM_AQUI";
-
-Salve o arquivo e abra-o no navegador novamente. As funcionalidades de IA agora estarão ativas.
-
-📄 Licença
-Este projeto é de código aberto e está disponível para uso e estudo.
