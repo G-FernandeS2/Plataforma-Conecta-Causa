@@ -25,7 +25,7 @@ Implementa validação de campos nativa.
 
 Aplica máscaras de JavaScript para campos como CPF, Telefone e CEP, melhorando a experiência do usuário.
 
-Integração com IA (Google Gemini):
+Integração com IA:
 
 🔎 Encontre sua Causa Ideal: Uma ferramenta inteligente na página de projetos que usa a IA para analisar as habilidades e interesses do usuário e recomendar o projeto de voluntariado mais adequado.
 
@@ -39,8 +39,6 @@ HTML5: Para a estrutura semântica do conteúdo.
 CSS3 & Tailwind CSS: Para a estilização e criação de um layout moderno e responsivo.
 
 JavaScript (ES6+): Para a interatividade da página, manipulação do DOM, máscaras de formulário e consumo de APIs.
-
-Google Gemini API: Para as funcionalidades de inteligência artificial generativa.
 
 Font Awesome: Para os ícones.
 
